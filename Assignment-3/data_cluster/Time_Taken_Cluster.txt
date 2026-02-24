@@ -1,0 +1,5 @@
+a) Total interpolation time (serial) = 0.270000 seconds
+b) Total interpolation time (serial) = 1.210000 seconds
+c) Total interpolation time (serial) = 0.970000 seconds
+d) Total interpolation time (serial) = 5.140000 seconds
+e) Total interpolation time (serial) = 3.650000 seconds
