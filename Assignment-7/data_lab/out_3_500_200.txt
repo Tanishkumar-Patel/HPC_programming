@@ -1,0 +1,54 @@
+============================================================
+Configuration 3: Grid=500x200, Points=3.6 million, Maxiter=10
+============================================================
+
+
+=====================================
+Running with 1 threads
+=====================================
+Total Interpolation Time = 1.400000 seconds
+Total Normalization Time = 0.020000 seconds
+Total Mover Time = 1.740000 seconds
+Total Denormalization Time = 0.000000 seconds
+Total Algorithm Time = 3.160000 seconds
+Total Number of Voids = 1
+
+=====================================
+Running with 2 threads
+=====================================
+Total Interpolation Time = 2.210000 seconds
+Total Normalization Time = 0.010000 seconds
+Total Mover Time = 2.530000 seconds
+Total Denormalization Time = 0.010000 seconds
+Total Algorithm Time = 4.760000 seconds
+Total Number of Voids = 1
+
+=====================================
+Running with 4 threads
+=====================================
+Total Interpolation Time = 2.120000 seconds
+Total Normalization Time = 0.010000 seconds
+Total Mover Time = 2.470000 seconds
+Total Denormalization Time = 0.000000 seconds
+Total Algorithm Time = 4.600000 seconds
+Total Number of Voids = 1
+
+=====================================
+Running with 8 threads
+=====================================
+Total Interpolation Time = 2.430000 seconds
+Total Normalization Time = 0.010000 seconds
+Total Mover Time = 2.730000 seconds
+Total Denormalization Time = 0.020000 seconds
+Total Algorithm Time = 5.190000 seconds
+Total Number of Voids = 1
+
+=====================================
+Running with 16 threads
+=====================================
+Total Interpolation Time = 3.560000 seconds
+Total Normalization Time = 0.010000 seconds
+Total Mover Time = 3.080000 seconds
+Total Denormalization Time = 0.030000 seconds
+Total Algorithm Time = 6.680000 seconds
+Total Number of Voids = 1
